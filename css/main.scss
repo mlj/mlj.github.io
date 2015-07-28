@@ -1,0 +1,91 @@
+---
+---
+@charset "utf-8";
+
+@import url(http://fonts.googleapis.com/css?family=Imprima);
+
+body {
+  background: url('../images/gray.png') #fff;
+  background-size: 322px;
+  margin: 0 0 2em 0;
+  padding: 0;
+  font: 400 16px/1.6 'Imprima', Verdana, Helvetica, sans-serif;
+  word-spacing: .1em;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  border-bottom: 1px solid maroon;
+}
+
+#site-header {
+  margin-top: 4em;
+  display: block;
+  text-align: center;
+}
+
+#site-header ul {
+  list-style: none;
+}
+
+#site-header li {
+  display: inline-block;
+  margin-right: 2.5%;
+}
+
+#site-header h1 {
+  font-family: 'Linux Libertine', Palatino, 'Palatino Linotype', 'Book Antiqua', Georgia, 'Times New Roman', serif;
+  font-weight: 400;
+  font-size: 300%;
+}
+
+#content {
+  width: 100%;
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+#content h1 {
+  font-family: 'Linux Libertine', Palatino, 'Palatino Linotype', 'Book Antiqua', Georgia, 'Times New Roman', serif;
+  color: maroon;
+  font-size: 3em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0;
+}
+
+#post-list {
+  line-height: 1.2;
+}
+
+#post-list ul {
+  list-style-type: none;
+}
+
+#post-list .date {
+  color: #8d8d8d;
+}
+
+#content p {
+  line-height: 1.6;
+}
+
+#content .ornament {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font: 100%/1 'Arial Unicode MS', FreeSerif, OpenSymbol, 'DejaVu Sans', sans-serif;
+  font-size: xx-large;
+  line-height: .875;
+  text-shadow: 0 0 2px #667;
+  clear: both;
+  text-align: center;
+}
+
+#content .post-footer {
+  color: #8d8d8d;
+  margin-top: 1.5em;
+}
