@@ -6,7 +6,7 @@ layout: page
 
 ## Latin formal syntax: non-finiteness, control, binding and logophoricity
 
-* 2012: _Non-finiteness in Latin_. PhD dissertation. University of Cambridge. [PDF](http://folk.uio.no/johndal-2012-phd-dissertation.pdf) [BibTeX](johndal-2012-phd-dissertation.bib)
+* 2012: _Non-finiteness in Latin_. PhD dissertation. University of Cambridge. [PDF](http://folk.uio.no/mariuslj/johndal-2012-phd-dissertation.pdf) [BibTeX](johndal-2012-phd-dissertation.bib)
 
 ## Latin treebanking and NLP
 
