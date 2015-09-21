@@ -89,3 +89,23 @@ a {
   color: #8d8d8d;
   margin-top: 1.5em;
 }
+
+#content pre {
+  word-spacing: 0;
+}
+
+.image-wrapper {
+  text-align: center;
+
+  img { max-width: 60%; }
+
+  a { border-bottom: none; }
+
+  .image-caption {
+    color: #111;
+    margin-top: 0.5em;
+  }
+
+  margin-top: 2.5em;
+  margin-bottom: 2.5em;
+}
