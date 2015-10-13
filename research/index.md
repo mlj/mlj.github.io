@@ -15,4 +15,4 @@ layout: page
 
 ## Other things
 
-* 2015: Review of 'B. McGillivray, Methods in Latin Computational Linguistics'. In _Journal of Roman Studies_. [First view](http://journals.cambridge.org/abstract_S0075435815001112)
+* 2015: Review of 'B. McGillivray, Methods in Latin Computational Linguistics'. _Journal of Roman Studies_ 105: 410-411. [PDF](http://journals.cambridge.org/abstract_S0075435815001112)
