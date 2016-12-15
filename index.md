@@ -14,3 +14,8 @@ I am a linguist at the [Department of Philosophy, Classics, History of Art and I
 * Syntax and semantics of control and binding
 * Formal theories of syntactic change
 * Treebanks and NLP techniques for historical languages
+
+## Long-term projects
+
+* [The PROIEL Treebank](http://proiel.github.io/)
+* [The Cambridge Online Survey of World Englishes](http://www.tekstlab.uio.no/cambridge_survey/)
