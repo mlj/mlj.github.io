@@ -1,7 +1,8 @@
 ---
 layout: page
-title: ""
 ---
+
+#
 
 I am a linguist at the [Department of Philosophy, Classics, History of Art and Ideas](http://www.hf.uio.no/ifikk/personer/vit/mariuslj/) at the University of Oslo researching the syntax of Latin. Most of my work is based on using computers and formal models of language. I received my PhD in Linguistics from the [University of Cambridge](http://www.ling.cam.ac.uk/histlingcluster/members.html) in 2013. In a parallel life I am [a programmer](https://github.com/mlj).
 
