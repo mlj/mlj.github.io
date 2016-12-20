@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Research and recent talks
 ---
-
-# Research and recent talks
 
 ## Latin formal syntax: non-finiteness, control, binding and logophoricity
 
