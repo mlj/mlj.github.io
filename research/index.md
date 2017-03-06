@@ -5,6 +5,7 @@ title: Research and recent talks
 
 ## Latin formal syntax: non-finiteness, control, binding and logophoricity
 
+* 2017: _An unexpected root clause_. Manuscript. [Lingbuzz](http://ling.auf.net/lingbuzz/003359)
 * 2013: _An LFG analysis of the Latin reflexive_. Handout from talk given at the University of Cambridge. [PDF](http://folk.uio.no/mariuslj/johndal-2013-reflexives.pdf)
 * 2012: _Non-finiteness in Latin_. PhD dissertation. University of Cambridge. [PDF](http://folk.uio.no/mariuslj/johndal-2012-phd-dissertation.pdf) [BibTeX](johndal-2012-phd-dissertation.bib)
 
