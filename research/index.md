@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Latin formal syntax: non-finiteness, control, binding and logophoricity
+## Latin formal syntax
 
 * 2019: _An unexpected root clause_. With Dag Haug and Per Erik Solberg.  _Linguistic Inquiry_ 50 (3): 649-661. [Publisher's site](https://www.mitpressjournals.org/doi/full/10.1162/ling_a_00296), [Lingbuzz](http://ling.auf.net/lingbuzz/003359)
 * 2013: _An LFG analysis of the Latin reflexive_. Handout from talk given at the University of Cambridge. [PDF](johndal-2013-reflexives.pdf)
@@ -16,6 +16,6 @@ layout: page
 * 2008: _Creating a Parallel Treebank of the Old Indo-European Bible Translations_. With Dag Haug. In _Language Resources and Evaluation 2009: Proceedings of the Workshop on Language Technology for Cultural Heritage Data. Marrakech, Morocco_: 27–34. [PDF](http://www.lrec-conf.org/proceedings/lrec2008/workshops/W22_Proceedings.pdf#page=31) [BibTeX](proiel-2008-marrakech-paper.bib)
 * 2008: _The PROIEL parallel corpus of old Indo-European translations of the New Testament_. With Hanne M. Eckhoff and Dag Haug. Slides from talk given at the workshop Diachronic Syntax in Slavonic Languages in Regensburg. [PDF](http://www.hf.uio.no/ifikk/english/research/projects/proiel/Activities/proiel/publications/regensburgslides.pdf)
 
-## Other things
+## Reviews
 
 * 2015: Review of 'B. McGillivray, Methods in Latin Computational Linguistics'. _Journal of Roman Studies_ 105: 410-411. [Publisher's site](http://journals.cambridge.org/abstract_S0075435815001112)
