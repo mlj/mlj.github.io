@@ -2,7 +2,7 @@
 layout: front
 ---
 
-I am a linguist whose main field of research is the syntax of Latin. Most of my work is based on using computers and formal models of language, and applying them to historical languages. I received my PhD in Linguistics from the [University of Cambridge](http://www.ling.cam.ac.uk/histlingcluster/members.html#marius) in 2013, and I am one of the main contributors to the [PROIEL Treebank](https://proiel.github.io/) project at the University of Oslo. In a parallel life I am [a programmer](https://github.com/mlj).
+I am a Senior Software Engineer at Google. In the past I did research on the syntax of Indo-European languages, in particular Latin, using formal and computational methods.
 
 ## Areas of interest
 
@@ -14,5 +14,5 @@ I am a linguist whose main field of research is the syntax of Latin. Most of my 
 
 ## Long-term projects
 
-* [The PROIEL Treebank](http://proiel.github.io/)
-* [The Cambridge Online Survey of World Englishes](http://www.tekstlab.uio.no/cambridge_survey/)
+* [Syntacticus](https://syntacticus.org): a treebank of early Indo-European languages, in collaboration with [Dag Haug](https://www.hf.uio.no/ifikk/english/people/aca/classics/tenured/daghaug/), [Hanne Eckhoff](https://www.lmh.ox.ac.uk/our-academics/fellows/dr-hanne-eckhoff) and many others.
+* [The Cambridge Online Survey of World Englishes](http://www.tekstlab.uio.no/cambridge_survey/), in collaboration with [Bert Vaux](https://www.mmll.cam.ac.uk/bv230).
