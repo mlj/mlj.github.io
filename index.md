@@ -2,7 +2,7 @@
 layout: front
 ---
 
-I am a Senior Software Engineer at Google. In the past I did research on the syntax of Indo-European languages, in particular Latin, using formal and computational methods.
+I am a linguist and software engineer. I have done research on the syntax of Indo-European languages, in particular Latin, using formal and computational methods.
 
 ## Areas of interest
 
