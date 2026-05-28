@@ -4,5 +4,3 @@ timezone: Europe/London
 permalink: /blog/:year/:month/:day/:title/
 kramdown:
   input: GFM
-sass:
-  style: :compressed
